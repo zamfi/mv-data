@@ -8,7 +8,7 @@
 			"note": [
 				"tl;dr: predictability and legibility are different theoretically and practically.",
 				"Constructed an experiment where the most predictable and most legible trajectories of motion differed. ",
-				"- Predictability is all about expectation, and (anecdotally) expectation when it comes to hinged robots is poor — motion only along certain axes, or of only single joints in sequence, etc."
+				"Predictability is all about expectation, and (anecdotally) expectation when it comes to hinged robots is poor — motion only along certain axes, or of only single joints in sequence, etc."
 			]
 		}
 	]
